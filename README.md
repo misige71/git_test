@@ -1,0 +1,1 @@
+This is Mischa's first git project
